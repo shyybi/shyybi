@@ -5,7 +5,7 @@
   "studies": "High School"  
 }
 
-`` bash /home/gateaulune/WAD/github/stas.sh ``
+`` bash /home/gateaulune/WAD/github/stats.sh ``
 
 ![](https://github-readme-stats.vercel.app/api?username=gateaulune&show_icons=true&hide_border=true&theme=tokyonight)
 
