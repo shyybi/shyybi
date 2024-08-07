@@ -33,7 +33,3 @@
 ***
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/953256335854678067)](https://discord.com/users/953256335854678067)
-
-***
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/738852700816670822)](https://discord.com/users/738852700816670822)
