@@ -25,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gateaulune&" alt="gateaulune" /></p>
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/953256335854678067)](https://discord.com/users/953256335854678067)
