@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charlotte "shyybi"</h1>
 <h3 align="center">I'm a young developper since 2015</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyybi&label=Profile%20views&color=0e75b6&style=flat" alt="shyybi" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyybi" alt="shyybi" /></a> </p>
 
 - 🌱 I’m currently learning **C**
