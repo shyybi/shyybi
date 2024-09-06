@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Charlotte "GateauLune"</h1>
+<h1 align="center">Hi 👋, I'm Charlotte "shyybi"</h1>
 <h3 align="center">I'm a young developper since 2015</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gateaulune&label=Profile%20views&color=0e75b6&style=flat" alt="gateaulune" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyybi&label=Profile%20views&color=0e75b6&style=flat" alt="shyybi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gateaulune" alt="gateaulune" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyybi" alt="shyybi" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C**
 
 ***
 
@@ -14,11 +14,11 @@
 
 ***
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gateaulune&show_icons=true&locale=en&layout=compact" alt="gateaulune" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyybi&show_icons=true&locale=en&layout=compact" alt="shyybi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gateaulune&show_icons=true&locale=en" alt="gateaulune" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyybi&show_icons=true&locale=en" alt="shyybi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gateaulune&" alt="gateaulune" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyybi&" alt="shyybi" /></p>
 
 
 ***
