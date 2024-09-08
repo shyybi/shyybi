@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm "shyybi"</h1>
+<h1 align="center">Hi 👋, I'm "Shyybi"</h1>
 <h3 align="center">I'm a young developper since 2015</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyybi" alt="shyybi" /></a> </p>
