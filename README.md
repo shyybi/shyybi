@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyybi&show_icons=true&locale=en" alt="shyybi" /></p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=shyybi)](https://git.io/streak-stats)
 ***
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/953256335854678067)](https://discord.com/users/953256335854678067)
