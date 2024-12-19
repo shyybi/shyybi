@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shyybi_" target="blank"><img src="https://img.shields.io/twitter/follow/shyybi_?logo=twitter&style=for-the-badge" alt="shyybi_" /></a> </p>
 
-- 🔭 I’m currently working on [Liltea](https://liltea.me)
+- 🔭 I’m currently working on [Liltea](https://github.com/liltea-bio)
 
 - 🌱 I’m currently learning **C**
 
