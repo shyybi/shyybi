@@ -8,6 +8,7 @@
 ⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠘⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 
+  o o o        charlotte - zsh  
 ```curl -X GET https://shyybi.me/api/whoami```
 
 "profile" : [  
