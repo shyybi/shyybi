@@ -1,4 +1,3 @@
-![Banner](https://github.com/shyybi/shyybi/blob/main/banner.png?raw=true)
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   
