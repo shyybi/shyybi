@@ -18,7 +18,7 @@ curl -X GET https://shyybi.me/api/whoami
 ```
 {	
     "profile": {
-        "name": "Charlotte",
+        "username": "Shyybi",
         "age": "19",
         "pronouns": "She",
         "country": "France",
