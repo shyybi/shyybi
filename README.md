@@ -21,8 +21,7 @@ curl -X GET https://shyybi.me/api/whoami
         "age": "19",
         "pronouns": "She",
         "country": "France",
-        "learning": "C",
-        "project": "Liltea"
+        "school": "H3 Hitema - Paris"
     }	
 }
 ```
