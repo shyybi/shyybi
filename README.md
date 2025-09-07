@@ -1,18 +1,7 @@
-![UwU](https://cdn.bsky.app/img/banner/plain/did:plc:gyqs6hiytutmncxawe4c2dzb/bafkreih4dm6x2eorgneempqfqcahbxhyys2pr5rddkuvawef7qy2wiuspm@jpeg)
-
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   
-⠀⠀⠀⠀⠀⣀⡀⡠⠔⠒⠐⠉⠙⣆⠀⠀⠀⡀⠀⠀  
-⠀⠀⠀⠀⣮⠀⠀⠀⠀⠀⠀⠀⠀⠡⡀⠀⠐⠿⠃⠀  
-⠀⣄⠀⠀⢸⠀⢀⡀⠀⠸⠀⠘⡃⠠⣳⣖⠀⢀⣦⣀  
-⠈⠻⠉⠀⣿⣤⢘⠉⠀⠀⠀⠀⠀⠀⠀⡞⠀⠀⠙⠀  
-⢼⡦⠀⢊⢿⡋⠀⠀⠀⡴⢴⠒⠄⠀⠘⢄⢠⠛⡄⠀  
-⠀⠁⠀⠀⠀⠉⢱⠂⠀⠀⠺⠂⠀⠀⠀⠀⢻⣰⠁⠀  
-⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀  
-⠀⠀⠀⠀⠀⠀⠘⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
+![Watching the city](https://i.pinimg.com/1200x/7e/13/22/7e1322b2a77165d512ecc9757066b7e5.jpg)
 
 ```bash
-curl -X GET https://shyybi.me/api/whoami
+curl -X GET https://github.com/api/whois?profile=shyybi
 ```
 
 ```
