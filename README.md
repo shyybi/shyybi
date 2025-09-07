@@ -1,4 +1,4 @@
-![hornet](https://i.pinimg.com/originals/4d/19/b2/4d19b2f5c80061e94c7a9bc98755fbc0.gif)
+![hornet](./4d19b2f5c80061e94c7a9bc98755fbc0.gif)
 
 ```
 curl -X GET https://github.com/api/whois?profile=shyybi
