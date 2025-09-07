@@ -1,10 +1,10 @@
-![Watching the city](https://i.pinimg.com/1200x/7e/13/22/7e1322b2a77165d512ecc9757066b7e5.jpg)
+![i will fight for everything](https://i.pinimg.com/originals/4d/19/b2/4d19b2f5c80061e94c7a9bc98755fbc0.gif)
 
-```bash
+```
 curl -X GET https://github.com/api/whois?profile=shyybi
 ```
 
-```
+```json
 {	
     "profile": {
         "username": "Shyybi",
