@@ -8,7 +8,7 @@ curl -X GET https://github.com/api/whois?profile=shyybi
 {	
     "profile": {
         "username": "Shyybi",
-        "age": "19",
+        "age": "20",
         "pronouns": "She",
         "country": "France",
         "school": "H3 Hitema - Paris"
